@@ -1,4 +1,4 @@
-import React, { use, useState } from "react";
+import React, { useState } from "react";
 
 const dictionary = [
     { word: "React", meaning: "A JavaScript library for building user interfaces." },
